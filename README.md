@@ -15,11 +15,11 @@ To use the Weather App, you’ll need an API key from a weather data provider. H
 1. Sign Up in the OpenWeather map website following the link: https://home.openweathermap.org/
 2. If you do not have an account, click on Create an account and provide the required details. Complete any required verification process (e.g., email verification).
 3. After successful registration, login with your credentials.
-![](images/login.png)
+![](images/portal_login.png)
 4. After successful login, click on your username and click **My API Keys**
-![](images/myapi.png)
+![](images/my_api.png)
 5. There will be an API key generated for you, Copy the key. If you want you can generate as many keys as possible.
-![](images/apikey2.png)
+![](images/apikey.png)
 6. create a file called **api_key.txt** in your local machine and paste the API key copied in the above step.
 
 ### Clone repository
